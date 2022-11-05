@@ -59,6 +59,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>docker-images-test</finalName>
     </build>
 
 </project>
